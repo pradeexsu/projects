@@ -2,41 +2,49 @@
   {
     "type": "square",
     "text": "SQUARE",
-    "img": null
+    "img": null,
+    "color": "#fff"
   },
   {
     "type": "line",
     "text": "Line",
-    "img": null
+    "img": null,
+    "color": "#fff"
   },
   {
     "type": "strip",
     "text": "STRIP",
-    "img": null
+    "img": null,
+    "color": "#fff"
   },
   {
     "type": "line",
     "text": "LINE",
-    "img": null
+    "img": null,
+    "color": "#fff"
   },
   {
     "type": "rect",
     "text": "RECTANGLE",
-    "img": null
+    "img": null,
+    "color": "#fff"
   },
   {
     "type": "line",
     "text": "LINE",
-    "img": null
+    "img": null,
+    "color": "#fff"
   },
   {
     "type": "square",
     "text": "SQUARE 2",
-    "img": null
+    "img": null,
+    "color": "#fff"
   },
   {
     "type": "line",
     "text": "LINE",
-    "img": null
+    "img": null,
+    "color": "#fff"
   }
 ]
