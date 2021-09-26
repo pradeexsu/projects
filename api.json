@@ -1,0 +1,42 @@
+[
+  {
+    "type": "square",
+    "text": "SQUARE",
+    "img": null
+  },
+  {
+    "type": "line",
+    "text": "Line",
+    "img": null
+  },
+  {
+    "type": "strip",
+    "text": "STRIP",
+    "img": null
+  },
+  {
+    "type": "line",
+    "text": "LINE",
+    "img": null
+  },
+  {
+    "type": "rect",
+    "text": "RECTANGLE",
+    "img": null
+  },
+  {
+    "type": "line",
+    "text": "LINE",
+    "img": null
+  },
+  {
+    "type": "square",
+    "text": "SQUARE 2",
+    "img": null
+  },
+  {
+    "type": "line",
+    "text": "LINE",
+    "img": null
+  }
+]
