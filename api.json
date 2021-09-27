@@ -1,123 +1,134 @@
 [
    {
-      "type":"cover",
-      "text":"Thor",
-      "img":"https://i.pinimg.com/736x/a7/3e/86/a73e867a5909a59bc6646c9712c246f3.jpg",
-      "color":"#fff"
+      "type": "strip",
+      "text": "android app dev",
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--vbu9ljGz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/s4u8hj6h8tr0d9snbvdo.png",
+      "color": "#fff"
    },
    {
-      "type":"rect",
-      "text":"LINE",
-      "img":"https://i.ibb.co/R64Gn3H/image.png",
-      "color":"#fff"
+      "type": "cover",
+      "text": "Thor",
+      "img": "https://i.pinimg.com/736x/a7/3e/86/a73e867a5909a59bc6646c9712c246f3.jpg",
+      "color": "#fff"
    },
    {
-      "type":"square",
-      "text":"Thor",
-      "img":"https://www.redwolf.in/image/catalog/designer-Images/themes/thor-artist-image.png",
-      "color":"#fff"
+      "type": "rect",
+      "text": "LINE",
+      "img": "https://i.ibb.co/R64Gn3H/image.png",
+      "color": "#fff"
    },
    {
-      "type":"line",
-      "text":"Line",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9owCP2wcqsyrMtdsTlsXNisCccy718SuNIL76WC5dtKiL3NAqqKJ2eFgzONuqjV4CbA&usqp=CAU",
-      "color":"#fff"
+      "type": "square",
+      "text": "Thor",
+      "img": "https://www.redwolf.in/image/catalog/designer-Images/themes/thor-artist-image.png",
+      "color": "#fff"
    },
    {
-      "type":"strip",
-      "text":"Apple Store",
-      "img":"https://1yjmqg26uh9k15zq0o1pderc-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/image02-1.png",
-      "color":"#fff"
+      "type": "line",
+      "text": "Line",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9owCP2wcqsyrMtdsTlsXNisCccy718SuNIL76WC5dtKiL3NAqqKJ2eFgzONuqjV4CbA&usqp=CAU",
+      "color": "#fff"
    },
    {
-      "type":"line",
-      "text":"Line",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9owCP2wcqsyrMtdsTlsXNisCccy718SuNIL76WC5dtKiL3NAqqKJ2eFgzONuqjV4CbA&usqp=CAU",
-      "color":"#fff"
+      "type": "strip",
+      "text": "Apple Store",
+      "img": "https://1yjmqg26uh9k15zq0o1pderc-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/image02-1.png",
+      "color": "#fff"
    },
    {
-      "type":"cover",
-      "text":"Thor",
-      "img":"https://i.pinimg.com/474x/61/0d/30/610d304bdf8a8f6abf9f6e855d482514.jpg",
-      "color":"#fff"
+      "type": "strip",
+      "text": "Apple Store",
+      "img": "http://thumbnails-visually.netdna-ssl.com/android-application-development_53550b594c516.jpg",
+      "color": "#fff"
    },
    {
-      "type":"rect",
-      "text":"LINE",
-      "img":"https://i.ibb.co/R64Gn3H/image.png",
-      "color":"#fff"
+      "type": "line",
+      "text": "Line",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9owCP2wcqsyrMtdsTlsXNisCccy718SuNIL76WC5dtKiL3NAqqKJ2eFgzONuqjV4CbA&usqp=CAU",
+      "color": "#fff"
    },
    {
-      "type":"rect",
-      "text":"",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmR276ctJ-SUKxfHYog3dT1eRroqBc56XYw&usqp=CAU",
-      "color":"#fff"
-   },
-   
-   {
-      "type":"line",
-      "text":"LINE",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
-      "color":"#fff"
+      "type": "cover",
+      "text": "Thor",
+      "img": "https://i.pinimg.com/474x/61/0d/30/610d304bdf8a8f6abf9f6e855d482514.jpg",
+      "color": "#fff"
    },
    {
-      "type":"rect",
-      "text":"csk vs mi",
-      "img":"https://pbs.twimg.com/media/E_fGj5DVkAUIesI.jpg",
-      "color":"#fff"
+      "type": "rect",
+      "text": "LINE",
+      "img": "https://i.ibb.co/R64Gn3H/image.png",
+      "color": "#fff"
    },
    {
-      "type":"line",
-      "text":"LINE",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9owCP2wcqsyrMtdsTlsXNisCccy718SuNIL76WC5dtKiL3NAqqKJ2eFgzONuqjV4CbA&usqp=CAU",
-      "color":"#fff"
+      "type": "rect",
+      "text": "",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmR276ctJ-SUKxfHYog3dT1eRroqBc56XYw&usqp=CAU",
+      "color": "#fff"
    },
    {
-      "type":"square",
-      "text":"bluey",
-      "img":"https://media.newyorker.com/photos/5f2300c146aba3f470f8a786/1:1/w_1440,h_1440,c_limit/Widdicombe-Bluey.jpg",
-      "color":"#fff"
+      "type": "line",
+      "text": "LINE",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color": "#fff"
    },
    {
-      "type":"line",
-      "text":"LINE",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
-      "color":"#fff"
+      "type": "rect",
+      "text": "csk vs mi",
+      "img": "https://pbs.twimg.com/media/E_fGj5DVkAUIesI.jpg",
+      "color": "#fff"
    },
    {
-      "type":"strip",
-      "text":"android app dev",
-      "img":"https://thedigitalpal.com/wp-content/uploads/2020/05/android-app-banner.jpg",
-      "color":"#fff"
+      "type": "line",
+      "text": "LINE",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9owCP2wcqsyrMtdsTlsXNisCccy718SuNIL76WC5dtKiL3NAqqKJ2eFgzONuqjV4CbA&usqp=CAU",
+      "color": "#fff"
    },
    {
-      "type":"line",
-      "text":"LINE",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
-      "color":"#fff"
+      "type": "square",
+      "text": "bluey",
+      "img": "https://media.newyorker.com/photos/5f2300c146aba3f470f8a786/1:1/w_1440,h_1440,c_limit/Widdicombe-Bluey.jpg",
+      "color": "#fff"
    },
    {
-      "type":"strip",
-      "text":"android app dev",
-      "img":"https://thedigitalpal.com/wp-content/uploads/2020/05/android-app-banner.jpg",
-      "color":"#fff"
+      "type": "line",
+      "text": "LINE",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color": "#fff"
    },
    {
-      "type":"line",
-      "text":"LINE",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
-      "color":"#fff"
+      "type": "strip",
+      "text": "android app dev",
+      "img": "https://thedigitalpal.com/wp-content/uploads/2020/05/android-app-banner.jpg",
+      "color": "#fff"
    },
    {
-      "type":"strip",
-      "text":"android app dev",
-      "img":"https://1yjmqg26uh9k15zq0o1pderc-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/image02-1.png",
-      "color":"#fff"
+      "type": "line",
+      "text": "LINE",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color": "#fff"
    },
    {
-      "type":"line",
-      "text":"LINE",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
-      "color":"#fff"
+      "type": "strip",
+      "text": "android app dev",
+      "img": "https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png",
+      "color": "#fff"
+   },
+   {
+      "type": "line",
+      "text": "LINE",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color": "#fff"
+   },
+   {
+      "type": "strip",
+      "text": "android app dev",
+      "img": "https://1yjmqg26uh9k15zq0o1pderc-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/image02-1.png",
+      "color": "#fff"
+   },
+   {
+      "type": "line",
+      "text": "LINE",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color": "#fff"
    }
 ]
