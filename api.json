@@ -30,6 +30,18 @@
       "color":"#fff"
    },
    {
+      "type":"cover",
+      "text":"Thor",
+      "img":"https://i.pinimg.com/474x/61/0d/30/610d304bdf8a8f6abf9f6e855d482514.jpg",
+      "color":"#fff"
+   },
+   {
+      "type":"line",
+      "text":"LINE",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color":"#fff"
+   },
+   {
       "type":"line",
       "text":"LINE",
       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
