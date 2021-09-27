@@ -6,6 +6,13 @@
       "color": "#fff"
    },
    {
+      "type": "user",
+      "text": "unknown name",
+      "img": "https://t4.ftcdn.net/jpg/02/23/50/73/360_F_223507349_F5RFU3kL6eMt5LijOaMbWLeHUTv165CB.jpg",
+      "color": "my bio is empty"
+   },
+   
+   {
       "type": "cover",
       "text": "Thor",
       "img": "https://i.pinimg.com/736x/a7/3e/86/a73e867a5909a59bc6646c9712c246f3.jpg",
