@@ -8,7 +8,7 @@
    {
       "type":"line",
       "text":"LINE",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "img":"https://i.ibb.co/R64Gn3H/image.png",
       "color":"#fff"
    },
    {
@@ -44,9 +44,16 @@
    {
       "type":"line",
       "text":"LINE",
-      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "img":"https://i.ibb.co/R64Gn3H/image.png",
       "color":"#fff"
    },
+   {
+      "type":"rect",
+      "text":"",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmR276ctJ-SUKxfHYog3dT1eRroqBc56XYw&usqp=CAU",
+      "color":"#fff"
+   },
+   
    {
       "type":"line",
       "text":"LINE",
