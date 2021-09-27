@@ -1,5 +1,11 @@
 [
    {
+      "type":"cover",
+      "text":"Thor",
+      "img":"https://i.pinimg.com/736x/a7/3e/86/a73e867a5909a59bc6646c9712c246f3.jpg",
+      "color":"#fff"
+   },
+   {
       "type":"line",
       "text":"LINE",
       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
@@ -8,7 +14,7 @@
    {
       "type":"square",
       "text":"Thor",
-      "img":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.redwolf.in%2Fimage%2Fcatalog%2Fdesigner-Images%2Fthemes%2Fthor-artist-image.png&imgrefurl=https%3A%2F%2Fwww.redwolf.in%2Fthor-badges-india&tbnid=nG5d2aLuzLCu6M&vet=12ahUKEwj5qo3alp7zAhV3sksFHeQmB0wQMygHegUIARDbAQ..i&docid=XGl80oZ5RYTiRM&w=438&h=438&q=thor&ved=2ahUKEwj5qo3alp7zAhV3sksFHeQmB0wQMygHegUIARDbAQ",
+      "img":"https://www.redwolf.in/image/catalog/designer-Images/themes/thor-artist-image.png",
       "color":"#fff"
    },
    {
