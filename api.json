@@ -6,7 +6,7 @@
       "color":"#fff"
    },
    {
-      "type":"line",
+      "type":"rect",
       "text":"LINE",
       "img":"https://i.ibb.co/R64Gn3H/image.png",
       "color":"#fff"
@@ -42,7 +42,7 @@
       "color":"#fff"
    },
    {
-      "type":"line",
+      "type":"rect",
       "text":"LINE",
       "img":"https://i.ibb.co/R64Gn3H/image.png",
       "color":"#fff"
