@@ -1,50 +1,92 @@
 [
-  {
-    "type": "square",
-    "text": "SQUARE",
-    "img": null,
-    "color": "#fff"
-  },
-  {
-    "type": "line",
-    "text": "Line",
-    "img": null,
-    "color": "#fff"
-  },
-  {
-    "type": "strip",
-    "text": "STRIP",
-    "img": null,
-    "color": "#fff"
-  },
-  {
-    "type": "line",
-    "text": "LINE",
-    "img": null,
-    "color": "#fff"
-  },
-  {
-    "type": "rect",
-    "text": "RECTANGLE",
-    "img": null,
-    "color": "#fff"
-  },
-  {
-    "type": "line",
-    "text": "LINE",
-    "img": null,
-    "color": "#fff"
-  },
-  {
-    "type": "square",
-    "text": "SQUARE 2",
-    "img": null,
-    "color": "#fff"
-  },
-  {
-    "type": "line",
-    "text": "LINE",
-    "img": null,
-    "color": "#fff"
-  }
+   {
+      "type":"line",
+      "text":"LINE",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color":"#fff"
+   },
+   {
+      "type":"square",
+      "text":"Thor",
+      "img":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.redwolf.in%2Fimage%2Fcatalog%2Fdesigner-Images%2Fthemes%2Fthor-artist-image.png&imgrefurl=https%3A%2F%2Fwww.redwolf.in%2Fthor-badges-india&tbnid=nG5d2aLuzLCu6M&vet=12ahUKEwj5qo3alp7zAhV3sksFHeQmB0wQMygHegUIARDbAQ..i&docid=XGl80oZ5RYTiRM&w=438&h=438&q=thor&ved=2ahUKEwj5qo3alp7zAhV3sksFHeQmB0wQMygHegUIARDbAQ",
+      "color":"#fff"
+   },
+   {
+      "type":"line",
+      "text":"Line",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9owCP2wcqsyrMtdsTlsXNisCccy718SuNIL76WC5dtKiL3NAqqKJ2eFgzONuqjV4CbA&usqp=CAU",
+      "color":"#fff"
+   },
+   {
+      "type":"strip",
+      "text":"Apple Store",
+      "img":"https://1yjmqg26uh9k15zq0o1pderc-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/image02-1.png",
+      "color":"#fff"
+   },
+   {
+      "type":"line",
+      "text":"LINE",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color":"#fff"
+   },
+   {
+      "type":"rect",
+      "text":"csk vs mi",
+      "img":"https://pbs.twimg.com/media/E_fGj5DVkAUIesI.jpg",
+      "color":"#fff"
+   },
+   {
+      "type":"line",
+      "text":"LINE",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9owCP2wcqsyrMtdsTlsXNisCccy718SuNIL76WC5dtKiL3NAqqKJ2eFgzONuqjV4CbA&usqp=CAU",
+      "color":"#fff"
+   },
+   {
+      "type":"square",
+      "text":"bluey",
+      "img":"https://media.newyorker.com/photos/5f2300c146aba3f470f8a786/1:1/w_1440,h_1440,c_limit/Widdicombe-Bluey.jpg",
+      "color":"#fff"
+   },
+   {
+      "type":"line",
+      "text":"LINE",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color":"#fff"
+   },
+   {
+      "type":"strip",
+      "text":"android app dev",
+      "img":"https://thedigitalpal.com/wp-content/uploads/2020/05/android-app-banner.jpg",
+      "color":"#fff"
+   },
+   {
+      "type":"line",
+      "text":"LINE",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color":"#fff"
+   },
+   {
+      "type":"strip",
+      "text":"android app dev",
+      "img":"https://thedigitalpal.com/wp-content/uploads/2020/05/android-app-banner.jpg",
+      "color":"#fff"
+   },
+   {
+      "type":"line",
+      "text":"LINE",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color":"#fff"
+   },
+   {
+      "type":"strip",
+      "text":"android app dev",
+      "img":"https://1yjmqg26uh9k15zq0o1pderc-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/image02-1.png",
+      "color":"#fff"
+   },
+   {
+      "type":"line",
+      "text":"LINE",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7oBC4oooKNj7ebmkc0eoM4zsNivru_nMtMiwV02GkwFnZS-O7OIRGV-g7K6BEppTxU&usqp=CAU",
+      "color":"#fff"
+   }
 ]
