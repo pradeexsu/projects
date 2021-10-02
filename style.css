@@ -71,7 +71,12 @@ body {
 .sun-svg, .moon-svg {
     display: none;
 }
-
+.screenshot{
+    width: 450px;
+}
+.summery {
+    user-select: none;
+}
 .main {
     width: 80vw;
     max-width: 500px;
@@ -118,3 +123,12 @@ body {
     word-spacing: 4px;
     text-align: justify;
 }
+a{
+    font-style: italic;
+    color: blueviolet;
+
+}
+.link--night-mode{
+    color: yellow;
+}
+
