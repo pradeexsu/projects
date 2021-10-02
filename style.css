@@ -121,7 +121,6 @@ body {
 .post__text{
     line-height: 23px;
     word-spacing: 4px;
-    text-align: justify;
 }
 a{
     font-style: italic;
